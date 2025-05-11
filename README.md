@@ -6,8 +6,8 @@ I am Darshan Kumar, a B. Tech student specializing in Computer Science and Engin
  -✉️  You can contact me at dksharma@gmail.com
  -🧠  Exploring Java Full-Stack development
  -🤝  I'm open to collaborating on new projects
-##Skills
+## Skills
 Java JavaScript React TailwindCSS NodeJS MongoDB Vite BootStrap  
 
-##Socials
+## Socials
 https://www.linkedin.com/in/darshan-kumar-5a1bb1301/ https://x.com/Darshan51014 
