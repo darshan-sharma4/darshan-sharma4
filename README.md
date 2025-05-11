@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My Name is Darshan Kumar
+#
+I am Darshan Kumar, a B. Tech student specializing in Computer Science and Engineering. I have successfully developed a variety of web applications, focusing on enhancing user experience and functionality.
+🚀 Aspiring Software Developer |💻 Full-Stack Enthusiast (React, Node.js, TypeScript , JavaScript ,java) 
+ -🌍  I'm based in Prayagraj, India
+ -✉️  You can contact me at dksharma@gmail.com
+ -🧠  Exploring Java Full-Stack development
+ -🤝  I'm open to collaborating on new projects
+##Skills
+Java JavaScript React TailwindCSS NodeJS MongoDB Vite BootStrap  
 
-<!--
-**darshan-sharma4/darshan-sharma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Socials
+https://www.linkedin.com/in/darshan-kumar-5a1bb1301/ https://x.com/Darshan51014 
