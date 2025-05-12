@@ -79,12 +79,6 @@ Welcome to my GitHub profile! I am Darshan Kumar, a B. Tech student specializing
   </tr>
 </table>
 
-
-
-
-## 🤝 Let's Connect!
-- [Twitter]()
-
 ## 🤝 Let's Connect!
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
