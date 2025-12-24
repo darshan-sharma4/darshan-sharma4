@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am Darshan Kumar, a B. Tech student specializing
 
 ## 🔍 About Me
 - 🌍 Based in Uttar pradesh
-- 🌱 Learning Java full stack
+- 🌱 Learning MERN full stack
 - 📫 Reach me at dksharma112004@gmail.com
 - ⚡ Fun fact: Stubborn
 
